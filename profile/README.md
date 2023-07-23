@@ -1,4 +1,4 @@
-> :warning: OpenPipes GitHub repository is under construction. Please be patient, thanks!
+> :warning: Under construction. Please be patient...
 
 ## Open Pipes
 
