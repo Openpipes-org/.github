@@ -1,8 +1,8 @@
 > :warning: Under construction
 
-## What's is Open Pipes?
+## What is Open Pipes?
 
-Open Pipes is a project that allows to build a complete open-source virtual pipe organ (VPO).
+Open Pipes is a project that allows to build a complete open-source virtual pipe organ (VPO) workstation system.
 
 ## Our mission
 
@@ -10,9 +10,9 @@ We want to get an alternative to democratize the access to once-exclusive, close
 
 ## Resouces
 
-### Linux-embedded distro for Raspberry Pi4
+### Linux-embedded distro
 
-Pipebian is based on Raspberry OS, is a Virtual Pipe Organ with a low latency audio engine. With Pipebian the user can build their own powerful music workstation with a VPO open-source software like GrandOrgue.
+Pipebian is a optimized and low latency audio engine distro for Raspberry Pi4. With Pipebian the user can build their own powerful music workstation with a VPO open-source software like GrandOrgue.
 
 ### Main Organ PCB Controller
 
@@ -28,8 +28,8 @@ Plastic printable 3D parts (buttons, preset thumb knobs, slicers etc.) that can 
 
 ### MIDI Pedalboard circuit
 
-Plans and Arduino code to build your full 32-note MIDI  Pedalboard circuit, functioning as a standard peripheral for the whole ecosystem.
+Plans and Arduino code to build your full 32-note MIDI Pedalboard circuit, functioning as a standard peripheral for the whole ecosystem.
 
-### Complete organ wood console plans 
+### Complete organ wood console
 
-with assembly instructions, allowing to build their own organ consoles. They are optimized to be easily assembled directly from the cut shop, from the provided cut list.
+Plans with assembly instructions, allowing to build their own organ console. They are optimized to be easily assembled directly from the cut shop, from the provided cut list.
