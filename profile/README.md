@@ -12,7 +12,9 @@ We want to get an alternative to democratize the access to once-exclusive, close
 
 > :warning: Under construction
 
-[Wiki Main Page] (https://github.com/Openpipes-org/.github/wiki)
+Every repository have a Wiki section with detailed tech info.
+
+Go to [Wiki Index Main Page] (https://github.com/Openpipes-org/.github/wiki)
 
 ## Projects
 
