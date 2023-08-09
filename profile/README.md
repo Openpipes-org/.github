@@ -8,7 +8,11 @@ Open Pipes is a project that allows to build a complete open-source virtual pipe
 
 We want to get an alternative to democratize the access to once-exclusive, closed-source and very expensive instrument with a set of open-source hardware and software solutions.
 
-## Resources
+## Wiki
+
+> :warning: Under construction
+
+## Projects
 
 ### Linux-embedded distro
 
