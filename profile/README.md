@@ -12,6 +12,8 @@ We want to get an alternative to democratize the access to once-exclusive, close
 
 > :warning: Under construction
 
+Go to [link Main page wiki] (https://github.com/Openpipes-org/.github/wiki)
+
 ## Projects
 
 ### Linux-embedded distro
