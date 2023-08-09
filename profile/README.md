@@ -12,7 +12,7 @@ We want to get an alternative to democratize the access to once-exclusive, close
 
 > :warning: Under construction
 
-Go to [Wiki Main Page] (https://github.com/Openpipes-org/.github/wiki)
+[Wiki Main Page] (https://github.com/Openpipes-org/.github/wiki)
 
 ## Projects
 
