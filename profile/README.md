@@ -14,7 +14,7 @@ We want to get an alternative to democratize the access to once-exclusive, close
 
 Every repository have a Wiki section with detailed tech info.
 
-Go to [Wiki Index Main Page] (https://github.com/Openpipes-org/.github/wiki)
+Go to [Wiki Index Main Page](https://github.com/Openpipes-org/.github/wiki)
 
 ## Projects
 
