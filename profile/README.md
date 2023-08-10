@@ -12,8 +12,6 @@ We want to get an alternative to democratize the access to once-exclusive, close
 
 > :warning: Under construction
 
-Every repository have a Wiki section with detailed tech info.
-
 Go to [Wiki Main Page](https://github.com/Openpipes-org/.github/wiki/Openpipes-wiki)
 
 ## Projects
