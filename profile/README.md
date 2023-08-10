@@ -28,9 +28,9 @@ An Arduino-compatible based (Pro Micro) board with a custom code to manage a who
   
 ### PCB Peripherals Organ Console
 
-A set of MIDI button PCBs to connect to Main MIDI Controller Board, specifically to the type used by commercial electronic / Virtual Pipe Organs, like:
-* Rocker buttons
-* Preset thumb knobs
+A set of MIDI button PCBs to connect to Main MIDI Controller Board, specifically to the type used by commercial electronic / Virtual Pipe Organs console, like:
+* Rocker buttons PCB
+* Preset thumb knobs PCB
 * Foot pistons
 * Volume pedal
 * Analog slicers, etc. 
@@ -38,8 +38,8 @@ A set of MIDI button PCBs to connect to Main MIDI Controller Board, specifically
 ### 3D-printed knob controllers
 
 Plastic-printable 3D parts to fix over the PCB Peripherals Organ Console, like:
-* Rocker buttons
-* Thumb knobs
+* Rocker buttons 3D-parts
+* Preset thumb knobs 3D-parts
 * Foot piston
 * Analog slicers, ecc
 
