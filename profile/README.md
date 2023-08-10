@@ -22,9 +22,9 @@ Go to [Wiki Index Main Page](https://github.com/Openpipes-org/.github/wiki/Openp
 
 Pipebian is a optimized and low latency audio engine distro for Raspberry Pi4. With Pipebian the user can build their own powerful music workstation with a VPO open-source software like GrandOrgue.
 
-### Main Organ PCB Controller
+### Main MIDI Controller Board
 
-An Arduino-compatible based (Pro Micro) organ control circuit with a custom code to manage a whole set of MIDI PCBs Peripherals Organ Console with one circuit.
+An Arduino-compatible based (Pro Micro) board with a custom code to manage a whole set of MIDI PCBs Peripherals Organ Console with one circuit.
 
 ### PCB Peripherals Organ Console
 
