@@ -42,6 +42,7 @@ Plastic printable 3D parts, like:
 * Thumb knobs
 * Foot piston
 * Analog slicers, ecc
+
 This parts can be directly screwed over the PCB Peripherals Organ Console without requiring advanced woodworking skills.
 
 ### MIDI Pedalboard circuit
