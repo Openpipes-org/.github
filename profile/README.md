@@ -25,7 +25,7 @@ Pipebian is a optimized and low latency audio engine distro for Raspberry Pi4. W
 ### Main MIDI Controller Board
 
 An Arduino-compatible based (Pro Micro) board with a custom code to manage a whole set of MIDI PCBs Peripherals Organ Console with one circuit.
-* [Main MIDI Controller PCB](link)
+* [Main MIDI Controller PCB](https://github.com/Openpipes-org/Main_MIDI_Controller_PCB)
 * [Main MIDI Controller firmware](link)
   
 ### PCB Peripherals Organ Console
