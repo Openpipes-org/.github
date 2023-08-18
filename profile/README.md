@@ -14,7 +14,7 @@ Go to [Wiki Main Page](https://github.com/Openpipes-org/.github/wiki/Openpipes-w
 
 ### Linux-embedded distro
 
-Pipebian is a optimized and low latency audio engine distro for Raspberry Pi4. With Pipebian the user can build their own powerful music workstation with a VPO open-source software like GrandOrgue.
+Pipebian64 is a optimized and low latency audio engine distro for Raspberry Pi4. With Pipebian64 the user can build their own powerful music workstation with a VPO open-source software like GrandOrgue.
 
 ### Main MIDI Controller Board
 
