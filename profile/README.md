@@ -25,24 +25,24 @@ An Arduino-compatible based (Pro Micro) board with a custom code to manage a who
 ### PCB Peripherals Organ Console
 
 A set of MIDI button PCBs to connect to Main MIDI Controller Board, specifically to the type used by commercial electronic / Virtual Pipe Organs console, like:
-* Rocker buttons PCB
-* Preset thumb knobs PCB
+* [Rocker buttons PCB](https://github.com/Openpipes-org/Rocker-buttons-PCB)
+* Thumbs buttons PCB
 * Foot pistons
 * Volume pedal
 * Analog slicers, etc. 
 
-### 3D-printed knob controllers
+### 3D-printed knob controllers and parts
 
 Plastic-printable 3D parts to fix over the PCB Peripherals Organ Console, like:
 * Rocker buttons 3D-parts
-* Preset thumb knobs 3D-parts
+* Thumbs buttons 3D-parts
 * Foot piston
 * Analog slicers, ecc
 
-### MIDI Keyboard and Pedalboard
+### MIDIfy Keyboards and Pedalboard
 
 * PCB project to transform your analogic keyboard in a fully functional MIDI keyboard
-* Plans and Arduino code to build your full 32-note MIDI Pedalboard circuit, functioning as a standard peripheral for the whole ecosystem.
+* Plans and Arduino code to build your full 32-note MIDI Pedalboard circuit, functioning as a standard peripheral for the whole ecosystem
 
 ### Complete organ wood console
 
