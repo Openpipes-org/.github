@@ -42,7 +42,7 @@ Plastic-printable 3D parts to fix over the PCB Peripherals Organ Console, like:
 ### MIDIfy Keyboards and Pedalboard
 
 * PCB project to transform your analogic keyboard in a fully functional MIDI keyboard
-* Plans and Arduino code to build your full 32-note MIDI Pedalboard circuit, functioning as a standard peripheral for the whole ecosystem
+* Plans and Arduino code to build your full 32-note MIDI pedalboard PCB
 
 ### Complete organ wood console
 
