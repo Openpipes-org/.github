@@ -34,7 +34,7 @@ A set of MIDI button PCBs to connect to Main MIDI Controller Board, specifically
 ### 3D-printed knob controllers and parts
 
 Plastic-printable 3D parts to fix over the PCB Peripherals Organ Console, like:
-* Rocker buttons 3D-parts
+* [Rocker buttons 3D-parts](https://github.com/Openpipes-org/Rocker_buttons_3D_parts)
 * Thumbs buttons 3D-parts
 * Foot piston
 * Analog slicers, ecc
