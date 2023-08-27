@@ -25,7 +25,7 @@ An Arduino-compatible based (Pro Micro) board with a custom code to manage a who
 ### PCB Peripherals Organ Console
 
 A set of MIDI button PCBs to connect to Main MIDI Controller Board, specifically to the type used by commercial electronic / Virtual Pipe Organs console, like:
-* [Rocker buttons PCB](https://github.com/Openpipes-org/Rocker-buttons-PCB)
+* [Rocker buttons PCB](https://github.com/Openpipes-org/Rocker_buttons_PCB)
 * Thumbs buttons PCB
 * Foot pistons
 * Volume pedal
