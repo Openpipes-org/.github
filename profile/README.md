@@ -20,7 +20,8 @@ Pipebian64 is a optimized and low latency audio engine distro for Raspberry Pi4 
 
 An Arduino-compatible based (Pro Micro) board with a custom code to manage a whole set of MIDI PCBs Peripherals Organ Console with one circuit.
 
-*[Main MIDI Controller PCB Rev2](https://github.com/Openpipes-org/Main_MIDI_Controller_PCB_v2)
+* [Main MIDI Controller PCB Rev2](https://github.com/Openpipes-org/Main_MIDI_Controller_PCB_v2)
+* [Main MIDI Controller firmware Rev2](https://github.com/Openpipes-org/Main_MIDI_Controller_firmware_v2)
 
 * [Main MIDI Controller PCB](https://github.com/Openpipes-org/Main_MIDI_Controller_PCB)
 * [Main MIDI Controller firmware](https://github.com/Openpipes-org/Main_MIDI_Controller_firmware)
