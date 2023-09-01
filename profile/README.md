@@ -51,3 +51,7 @@ Plastic-printable 3D parts to fix over the PCB Peripherals Organ Console, like:
 ### Complete organ wood console
 
 Plans with assembly instructions, allowing to build their own organ console. They are optimized to be easily assembled directly from the cut shop, from the provided cut list.
+
+* 2 manuals console (ver 2)
+* 2 manuals console (ver 1)
+
