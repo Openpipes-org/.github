@@ -1,3 +1,6 @@
+> [!WARNING]
+> GitHub under construction
+
 ## What is Open Pipes?
 
 Open Pipes is a project that allows you to build a complete open-source virtual pipe organ (VPO) workstation system.
