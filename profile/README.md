@@ -18,7 +18,6 @@ An Arduino-compatible based (Pro Micro) board with a custom code to manage a who
 
 * [Main MIDI Controller board (Rev2)](https://github.com/Openpipes-org/Main_MIDI_Controller_PCB_v2)
 * [Main MIDI Controller firmware (Rev2)](https://github.com/Openpipes-org/Main_MIDI_Controller_firmware_v2)
-
 * [Main MIDI Controller board (Rev1)](https://github.com/Openpipes-org/Main_MIDI_Controller_PCB)
 * [Main MIDI Controller firmware (Rev1)](https://github.com/Openpipes-org/Main_MIDI_Controller_firmware)
   
