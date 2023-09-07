@@ -26,22 +26,27 @@ An Arduino-compatible based (Pro Micro) board with a custom code to manage a who
   
 ### Peripherals Organ Console boards
 
-A set of MIDI buttons boards to connect to Main MIDI Controller Board, specifically to the type used by commercial electronic / Virtual Pipe Organs console.
+A set of MIDI buttons boards to connect to Main MIDI Controller Board, specifically to the type used by commercial electronic / Virtual Pipe Organs console:
 
 * [Rocker buttons board](https://github.com/Openpipes-org/Rocker_buttons_PCB)
 * [Thumbs buttons board](https://github.com/Openpipes-org/Thumbs_buttons_PCB)
 * Analog slicers board
-* Foot piston
-* Volume pedal
-* Analog slicers, etc. 
 
 ### 3D-printed knob controllers and parts
 
 Plastic-printable 3D parts to fix over the Peripherals Organ Console boards:
+
 * [Rocker buttons 3D-parts](https://github.com/Openpipes-org/Rocker_buttons_3D_parts)
 * [Thumbs buttons 3D-parts](https://github.com/Openpipes-org/Thumbs_buttons_3D_parts)
 * Analog slicers 3D-parts
+
+### Organ accessories
+
+A set of typical organ commands.
+
+* Volume pedal / swell shoes
 * Foot piston
+
 
 ### MIDIfy Keyboards and Pedalboard
 
@@ -50,8 +55,9 @@ Plastic-printable 3D parts to fix over the Peripherals Organ Console boards:
 
 ### Complete organ wood console
 
-Plans with assembly instructions, allowing to build their own organ console. They are optimized to be easily assembled directly from the cut shop, from the provided cut list.
+Plans with assembly instructions to build their own organ console. They are optimized to be easily assembled directly from the cut shop, from the provided cut list:
 
+* 3 manuals console (ver 1)
 * 2 manuals console (ver 2)
 * 2 manuals console (ver 1)
 
