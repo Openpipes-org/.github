@@ -45,7 +45,7 @@ A set of MIDI buttons boards to connect to Main MIDI Controller Board, specifica
 * [Thumbs buttons board](https://github.com/Openpipes-org/Thumbs_buttons_PCB)
 * Analog slicers board
 
-### 3D-printed knob controllers and parts
+### 3D-printed parts
 
 Plastic-printable 3D parts to fix over the Peripherals Organ Console boards:
 
@@ -55,11 +55,11 @@ Plastic-printable 3D parts to fix over the Peripherals Organ Console boards:
 
 ### Organ accessories
 
-A set of typical organ console commands:
+A set of typical assembled organ console commands:
 
 * Volume pedal / swell shoes
+* Push-and-pull knobs
 * Foot pistons
-
 
 ### MIDIfy Keyboards and Pedalboard
 
