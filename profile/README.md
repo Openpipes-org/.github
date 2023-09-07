@@ -42,10 +42,10 @@ Plastic-printable 3D parts to fix over the Peripherals Organ Console boards:
 
 ### Organ accessories
 
-A set of typical organ commands.
+A set of typical organ console commands:
 
 * Volume pedal / swell shoes
-* Foot piston
+* Foot pistons
 
 
 ### MIDIfy Keyboards and Pedalboard
