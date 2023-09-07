@@ -16,7 +16,7 @@ You will also get all the news and information about this project through our ch
 <a href="https://openpipes.org/" target="_blank">
 <img src="https://img.shields.io/badge/Website-73ba25?style=for-the-badge&logo=website&logoColor=black" alt="Website Badge"/></a>
  
- <a href="https://www.facebook.com/groups/openpipes/" target="_blank">
+ <a href="https://www.facebook.com/groups/openpipes.org/" target="_blank">
  <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
  
  <a href="https://www.youtube.com/user/cernui" target="_blank">
