@@ -36,7 +36,7 @@ An Arduino-compatible based (Pro Micro) board with a custom code to manage a who
 * [Main MIDI Controller board (Rev1)](https://github.com/Openpipes-org/Main_MIDI_Controller_PCB)
 * [Main MIDI Controller firmware (Rev1)](https://github.com/Openpipes-org/Main_MIDI_Controller_firmware)
   
-### Peripherals organ Ccnsole boards
+### Peripherals organ Console boards
 
 A set of MIDI buttons boards to connect to Main MIDI Controller Board, specifically to the type used by commercial electronic / Virtual Pipe Organs console:
 
