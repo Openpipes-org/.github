@@ -1,4 +1,4 @@
-![alt text](https://github.com/Openpipes-org/.github/images/openpipes-logo.png)
+![alt text](https://github.com/Openpipes-org/.github/images/openpipes-logo.png](https://github.com/Openpipes-org/.github/blob/main/images/openpipes_logo.png)
 
 ## What is Open Pipes?
 
