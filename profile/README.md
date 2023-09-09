@@ -1,6 +1,3 @@
-> [!WARNING]
-> GitHub under construction
-
 ## What is Open Pipes?
 
 Open Pipes is a project that allows you to build a complete open-source virtual pipe organ (VPO) workstation system.
@@ -37,13 +34,13 @@ An Arduino-compatible based (Pro Micro) board with a custom code to manage a who
 * [Main MIDI Controller board (Rev1)](https://github.com/Openpipes-org/Main_MIDI_Controller_PCB)
 * [Main MIDI Controller firmware (Rev1)](https://github.com/Openpipes-org/Main_MIDI_Controller_firmware)
   
-### Peripherals Organ Console boards
+### Peripherals organ Ccnsole boards
 
 A set of MIDI buttons boards to connect to Main MIDI Controller Board, specifically to the type used by commercial electronic / Virtual Pipe Organs console:
 
 * [Rocker buttons board](https://github.com/Openpipes-org/Rocker_buttons_PCB)
 * [Thumbs buttons board](https://github.com/Openpipes-org/Thumbs_buttons_PCB)
-* Analog slicers board
+* [Analog slicers board](https://github.com/Openpipes-org/Analog_slicers_PCB)
 
 ### 3D-printed parts
 
@@ -61,9 +58,11 @@ A set of typical assembled organ console commands:
 * Push-and-pull knobs
 * Foot pistons
 
-### MIDIfy Keyboards and Pedalboard
+### MIDIfy keyboards and pedalboards
 
-* PCB project to transform your analogic keyboard in a fully functional MIDI keyboard
+Board projects to MIDIfy an analogic keyboard or pedalboard
+
+* Keyboard encoder board
 * Plans and Arduino code to build your full 32-note MIDI pedalboard PCB
 
 ### Complete organ wood console
@@ -73,4 +72,4 @@ Plans with assembly instructions to build their own organ console. They are opti
 * 3 manuals console (ver 1)
 * 2 manuals console (ver 2)
 * 2 manuals console (ver 1)
-
+* Portative console
