@@ -64,7 +64,7 @@ A set of typical assembled organ console commands:
 
 Board projects to MIDIfy an analogic keyboard or pedalboard
 
-* Keyboard encoder board
+* Keyboard MIDI encoder board
 * Plans and Arduino code to build your full 32-note MIDI pedalboard PCB
 
 ### Complete organ wood console
