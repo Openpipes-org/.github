@@ -42,7 +42,7 @@ A set of MIDI buttons boards to connect to Main MIDI Controller Board, specifica
 
 * [Rocker buttons board](https://github.com/Openpipes-org/Rocker_buttons_PCB)
 * [Thumbs buttons board](https://github.com/Openpipes-org/Thumbs_buttons_PCB)
-* [Analog slicers board](https://github.com/Openpipes-org/Analog_slicers_PCB)
+* [Analog sliders board](https://github.com/Openpipes-org/Analog_sliders_PCB)
 
 ### 3D-printed parts
 
