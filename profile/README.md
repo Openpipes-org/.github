@@ -50,7 +50,7 @@ Plastic-printable 3D parts to fix over the Peripherals Organ Console boards:
 
 * [Rocker buttons 3D-parts](https://github.com/Openpipes-org/Rocker_buttons_3D_parts)
 * [Thumbs buttons 3D-parts](https://github.com/Openpipes-org/Thumbs_buttons_3D_parts)
-* Analog slicers 3D-parts
+* Analog sliders 3D-parts
 
 ### Organ accessories
 
@@ -72,7 +72,7 @@ Board projects to MIDIfy an analogic keyboard or pedalboard
 
 Plans with assembly instructions to build their own organ console. They are optimized to be easily assembled directly from the cut shop, from the provided cut list:
 
-* 3 manuals console (ver 1)
+* 3 manuals console
 * 2 manuals console (ver 2)
 * 2 manuals console (ver 1)
 * Portative console
