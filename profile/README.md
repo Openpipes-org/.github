@@ -46,19 +46,14 @@ A set of MIDI buttons boards to connect to Main MIDI Controller Board, specifica
 
 ### 3D-printed parts
 
-Plastic-printable 3D parts to fix over the Peripherals Organ Console boards:
+Plastic-printable 3D parts and components:
 
 * [Rocker buttons 3D-parts](https://github.com/Openpipes-org/Rocker_buttons_3D_parts)
 * [Thumbs buttons 3D-parts](https://github.com/Openpipes-org/Thumbs_buttons_3D_parts)
 * Analog sliders 3D-parts
-
-### Organ accessories
-
-A set of typical assembled organ console commands:
-
-* Volume pedal / swell shoes
 * Push-and-pull knobs
 * Foot pistons
+* Volume pedal support
 
 ### MIDIfy keyboards and pedalboards
 
