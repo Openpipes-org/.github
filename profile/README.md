@@ -27,7 +27,7 @@ You will also get all the news and information about this project through our ch
 
 Pipebian64 is a optimized and low latency audio engine distro for Raspberry Pi4 B. With Pipebian64 the user can build their own powerful music workstation with a VPO open-source software like GrandOrgue.
 
-### Main MIDI Controller Board
+### MIDI Controller Boards
 
 An Arduino-compatible based (Pro Micro) board with a custom code to manage a whole set of MIDI Peripherals Organ Console boards with one circuit.
 
@@ -36,32 +36,19 @@ An Arduino-compatible based (Pro Micro) board with a custom code to manage a who
 * [Main MIDI Controller board (Version 1)](https://github.com/Openpipes-org/Main_MIDI_Controller_PCB)
 * [Main MIDI Controller firmware (Version 1)](https://github.com/Openpipes-org/Main_MIDI_Controller_firmware)
   
-### Peripherals organ Console boards
+### Organ Console peripherals
 
 A set of MIDI buttons boards to connect to Main MIDI Controller Board, specifically to the type used by commercial electronic / Virtual Pipe Organs console:
 
 * [Rocker buttons board](https://github.com/Openpipes-org/Rocker_buttons_PCB)
 * [Thumbs buttons board](https://github.com/Openpipes-org/Thumbs_buttons_PCB)
 * [Analog sliders board](https://github.com/Openpipes-org/Analog_sliders_PCB)
-
-### 3D-printed parts
-
-Plastic-printable 3D parts and components:
-
-* [Rocker buttons 3D-parts](https://github.com/Openpipes-org/Rocker_buttons_3D_parts)
-* [Thumbs buttons 3D-parts](https://github.com/Openpipes-org/Thumbs_buttons_3D_parts)
 * Analog sliders 3D-parts
 * Push-and-pull knobs
 * Foot pistons
 * Volume pedal support
-
-### MIDIfy keyboards and pedalboards
-
-Board projects to MIDIfy an analogic keyboard or pedalboard
-
 * [MIDI keyboard encoder board](https://github.com/Openpipes-org/MIDI_keyboard_encoder_PCB)
 * MIDI pedalboard encoder board
-* MIDI pedalboard encoder firmware
 
 ### Complete organ wood console
 
