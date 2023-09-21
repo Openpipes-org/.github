@@ -57,7 +57,7 @@ A set of MIDI devices to connect on Main MIDI Controller Board, specifically to 
 ### Push-and-pull knobs
 * Push-and-pull knobs 3D-parts
 
-### Toe pistons
+### Foot pistons
 * Foot pistons 3D-parts
 
 ### Volume pedal
