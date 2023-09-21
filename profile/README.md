@@ -38,20 +38,36 @@ An Arduino-compatible based (Pro Micro) board with a custom code to manage a who
 * [Main MIDI Controller board (Version 1)](https://github.com/Openpipes-org/Main_MIDI_Controller_PCB)
 * [Main MIDI Controller firmware (Version 1)](https://github.com/Openpipes-org/Main_MIDI_Controller_firmware)
   
-### Organ Console peripherals
+### MIDI peripherals
 
-A set of MIDI buttons boards to connect to Main MIDI Controller Board, specifically to the type used by commercial electronic / Virtual Pipe Organs console:
+A set of MIDI devices to connect on Main MIDI Controller Board, specifically to the type used by commercial electronic / Virtual Pipe Organs console:
 
+### Rocker buttons
 * [Rocker buttons board](https://github.com/Openpipes-org/Rocker_buttons_PCB)
+* [Rocker buttons 3D-parts](#)
+
+### Thumbs buttons
 * [Thumbs buttons board](https://github.com/Openpipes-org/Thumbs_buttons_PCB)
+* [Thumbs buttons 3D-parts](#)
+
+### Analog sliders
 * [Analog sliders board](https://github.com/Openpipes-org/Analog_sliders_PCB)
-* Push-and-pull knobs
-* Foot pistons
+* [Analog sliders 3D-parts](#)
+
+### Push-and-pull knobs
+* Push-and-pull knobs 3D-parts
+
+### Toe pistons
+* Foot pistons 3D-parts
+
+### Volume pedal
 * Volume pedal support
+
+### MIDI encoder
 * [MIDI keyboard encoder board](https://github.com/Openpipes-org/MIDI_keyboard_encoder_PCB)
 * MIDI pedalboard encoder board
 
-### Complete organ wood console
+## Complete organ wood console
 
 Plans with assembly instructions to build their own organ console. They are optimized to be easily assembled directly from the cut shop, from the provided cut list:
 
