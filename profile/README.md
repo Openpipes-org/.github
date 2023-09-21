@@ -2,15 +2,15 @@
 
 ⚠️ This GitHub is under construction! Please be patient, thanks! :-)
 
-## What is Open Pipes?
+# What is Open Pipes?
 
 Open Pipes is a project that allows you to build a complete open-source virtual pipe organ (VPO) workstation system.
 
-## Our mission
+# Our mission
 
 We want to get an alternative to democratize the access to once-exclusive, closed-source and very expensive instrument with a set of open-source hardware and software solutions.
 
-## Links
+# Links
 
 You will also get all the news and information about this project through our channels:
 
@@ -23,13 +23,13 @@ You will also get all the news and information about this project through our ch
  <a href="https://www.youtube.com/user/cernui" target="_blank">
  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/></a>
 
-## Projects
+# Projects
 
-### Linux-embedded distro
+## Linux-embedded distro
 
 Pipebian64 is a optimized and low latency audio engine distro for Raspberry Pi4 B. With Pipebian64 the user can build their own powerful music workstation with a VPO open-source software like GrandOrgue.
 
-### MIDI Controller Boards
+## MIDI Controller Boards
 
 An Arduino-compatible based (Pro Micro) board with a custom code to manage a whole set of MIDI Peripherals Organ Console boards with one circuit.
 
@@ -38,7 +38,7 @@ An Arduino-compatible based (Pro Micro) board with a custom code to manage a who
 * [Main MIDI Controller board (Version 1)](https://github.com/Openpipes-org/Main_MIDI_Controller_PCB)
 * [Main MIDI Controller firmware (Version 1)](https://github.com/Openpipes-org/Main_MIDI_Controller_firmware)
   
-### MIDI peripherals
+## MIDI peripherals
 
 A set of MIDI devices to connect on Main MIDI Controller Board, specifically to the type used by commercial electronic / Virtual Pipe Organs console:
 
