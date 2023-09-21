@@ -62,6 +62,7 @@ A set of MIDI devices to connect on Main MIDI Controller Board, specifically to 
 
 ### Volume pedal
 * Volume pedal support
+* Volume pedal wood table 
 
 ### MIDI encoder
 * [MIDI keyboard encoder board](https://github.com/Openpipes-org/MIDI_keyboard_encoder_PCB)
