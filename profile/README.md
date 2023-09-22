@@ -68,11 +68,15 @@ A set of MIDI devices to connect on Main MIDI Controller Board, specifically to 
 * [MIDI keyboard encoder board](https://github.com/Openpipes-org/MIDI_keyboard_encoder_PCB)
 * MIDI pedalboard encoder board
 
-## Complete organ wood console
+## Complete organ wood parts
 
-Plans with assembly instructions to build their own organ console. They are optimized to be easily assembled directly from the cut shop, from the provided cut list:
+Plans with assembly instructions to build their own organ console and other wood parts. They are optimized to be easily assembled directly from the cut shop, from the provided cut list:
 
+### Consoles
 * 3 manuals console
 * 2 manuals console (ver 2)
 * 2 manuals console (ver 1)
 * Portative console
+
+### Pedalboards
+* Straight pedalboard
