@@ -44,7 +44,7 @@ A set of MIDI devices to connect on Main MIDI Controller Board, specifically to 
 
 ### Rocker buttons
 * [Rocker buttons board](https://github.com/Openpipes-org/Rocker_buttons_PCB)
-* Rocker buttons 3D-parts
+* [Rocker buttons 3D-parts](https://github.com/Openpipes-org/Rocker_buttons_3D_parts)
 
 ### Thumb buttons
 * [Thumb buttons board](https://github.com/Openpipes-org/Thumbs_buttons_PCB)
