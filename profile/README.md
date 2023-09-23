@@ -44,21 +44,21 @@ A set of MIDI devices to connect on Main MIDI Controller Board, specifically to 
 
 ### Rocker buttons
 * [Rocker buttons board](https://github.com/Openpipes-org/Rocker_buttons_PCB)
-* [Rocker buttons 3D-parts](#)
+* Rocker buttons 3D-parts
 
-### Thumbs buttons
-* [Thumbs buttons board](https://github.com/Openpipes-org/Thumbs_buttons_PCB)
-* [Thumbs buttons 3D-parts](#)
+### Thumb buttons
+* [Thumb buttons board](https://github.com/Openpipes-org/Thumbs_buttons_PCB)
+* Thumb buttons 3D-parts
 
 ### Analog sliders
 * [Analog sliders board](https://github.com/Openpipes-org/Analog_sliders_PCB)
-* [Analog sliders 3D-parts](#)
+* Analog sliders 3D-parts
 
 ### Push-and-pull knobs
 * Push-and-pull knobs 3D-parts
 
-### Foot pistons
-* Foot pistons 3D-parts
+### Foot piston
+* Foot piston 3D-parts
 
 ### Volume pedal
 * Volume pedal support
