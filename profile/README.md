@@ -54,11 +54,11 @@ A set of MIDI devices to connect on Main MIDI Controller Board, specifically to 
 * [Analog sliders board](https://github.com/Openpipes-org/Analog_sliders_PCB)
 * Analog sliders 3D-parts
 
-### Push-and-pull knobs
-* Push-and-pull knobs 3D-parts
+### Push-and-pull knob
+* Push-and-pull knob 3D-parts
 
 ### Foot piston
-* Foot piston 3D-parts
+* [Foot piston 3D-parts](https://github.com/Openpipes-org/Foot_piston_3D_parts)
 
 ### Volume pedal
 * Volume pedal support
