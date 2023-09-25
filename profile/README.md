@@ -61,7 +61,7 @@ A set of MIDI devices to connect on Main MIDI Controller Board, specifically to 
 * [Foot piston 3D-parts](https://github.com/Openpipes-org/Foot_piston_3D_parts)
 
 ### Volume pedal
-* Volume pedal support
+* Volume pedal sensor support
 * Volume pedal wood table 
 
 ### MIDI encoder
