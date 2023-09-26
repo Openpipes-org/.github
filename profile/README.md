@@ -48,7 +48,7 @@ A set of MIDI devices to connect on Main MIDI Controller Board, specifically to 
 
 ### Thumb buttons
 * [Thumb buttons board](https://github.com/Openpipes-org/Thumbs_buttons_PCB)
-* Thumb buttons 3D-parts
+* [Thumb buttons 3D-parts](https://github.com/Openpipes-org/Thumbs_buttons_3D_parts)
 
 ### Analog sliders
 * [Analog sliders board](https://github.com/Openpipes-org/Analog_sliders_PCB)
