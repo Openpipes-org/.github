@@ -1,7 +1,5 @@
 ![alt text](https://github.com/Openpipes-org/.github/blob/main/images/openpipes_logo.png)
 
-⚠️ This GitHub is under construction! Please be patient, thanks! :-)
-
 # What is Open Pipes?
 
 Open Pipes is a project that allows you to build a complete open-source virtual pipe organ (VPO) workstation system.
