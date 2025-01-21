@@ -76,7 +76,7 @@ Plans with assembly instructions to build their own organ console and other wood
 * 3 manuals console
 * 2 manuals console (ver 2)
 * 2 manuals console (ver 1)
-* Portative console
+* [Portative console] (https://github.com/Openpipes-org/portativo)
 
 ### Pedalboards
-* Straight pedalboard
+* Straight pedalboard 
