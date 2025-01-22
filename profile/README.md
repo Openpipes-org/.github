@@ -71,7 +71,7 @@ A set of MIDI devices to connect on Main MIDI Controller Board, specifically to 
 Plans with assembly instructions to build their own organ console and other wood parts. They are optimized to be easily assembled directly from the cut shop, from the provided cut list:
 
 ### Consoles
-* 3 manuals console
+* [3 manuals console](https://github.com/Openpipes-org/3manuals)
 * 2 manuals console (ver 2)
 * 2 manuals console (ver 1)
 * [Portative console](https://github.com/Openpipes-org/Portativo)
