@@ -25,7 +25,7 @@ You will also get all the news and information about this project through our ch
 
 ## Linux-embedded distro
 
-Pipebian64 is a optimized and low latency audio engine distro for Raspberry Pi4 B. With Pipebian64 the user can build their own powerful music workstation with a VPO open-source software like GrandOrgue.
+Pipebian64 is a optimized and low latency audio engine distro for Raspberry Pi4 B / Raspberry Pi 5. With Pipebian64 the user can build their own powerful music workstation with a VPO open-source software like GrandOrgue.
 
 ## MIDI Controller Boards
 
