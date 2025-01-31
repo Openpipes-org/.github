@@ -1,17 +1,5 @@
 ![alt text](https://github.com/Openpipes-org/.github/blob/main/images/openpipes_logo.png)
 
-# What is Open Pipes?
-
-Open Pipes is a project that allows you to build a complete open-source virtual pipe organ (VPO) workstation system.
-
-# Our mission
-
-We want to get an alternative to democratize the access to once-exclusive, closed-source and very expensive instrument with a set of open-source hardware and software solutions.
-
-# Links
-
-You will also get all the news and information about this project through our channels:
-
 <a href="https://openpipes.org/" target="_blank">
 <img src="https://img.shields.io/badge/Website-73ba25?style=for-the-badge&logo=website&logoColor=black" alt="Website Badge"/></a>
  
@@ -20,6 +8,14 @@ You will also get all the news and information about this project through our ch
  
  <a href="https://www.youtube.com/user/cernui" target="_blank">
  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/></a>
+
+# What is Open Pipes?
+
+Open Pipes is a project that allows you to build a complete open-source virtual pipe organ (VPO) workstation system.
+
+# Our mission
+
+We want to get an alternative to democratize the access to once-exclusive, closed-source and very expensive instrument with a set of open-source hardware and software solutions.
 
 # Projects
 
