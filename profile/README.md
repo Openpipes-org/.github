@@ -49,7 +49,7 @@ A set of MIDI devices to connect on Main MIDI Controller Board, specifically to 
 * Analog sliders 3D-parts
 
 ### Push-and-pull knob
-* Push-and-pull knob 3D-parts
+* [Push-and-pull knob 3D-parts](https://github.com/Openpipes-org/Push_pull_knobs_3D_parts)
 
 ### Foot piston
 * [Foot piston 3D-parts](https://github.com/Openpipes-org/Foot_piston_3D_parts)
