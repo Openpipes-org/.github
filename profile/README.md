@@ -1,4 +1,4 @@
-<p style="text-align: center">
+<p align="center">
 <img src="https://github.com/Openpipes-org/.github/blob/main/images/openpipes_logo.png">
 </p>
 
