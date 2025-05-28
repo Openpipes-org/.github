@@ -1,6 +1,8 @@
 <p style="text-align: center">
 <img src="https://github.com/Openpipes-org/.github/blob/main/images/openpipes_logo.png">
+</p>
 
+<p style="text-align: center">
 <a href="https://openpipes.org/" target="_blank">
 <img src="https://img.shields.io/badge/Website-73ba25?style=for-the-badge&logo=website&logoColor=black" alt="Website Badge"/></a>
  
