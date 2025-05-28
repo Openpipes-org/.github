@@ -1,5 +1,4 @@
-<p style="text-align: center">
-![alt text](https://github.com/Openpipes-org/.github/blob/main/images/openpipes_logo.png)
+<img src="https://github.com/Openpipes-org/.github/blob/main/images/openpipes_logo.png">
 
 <a href="https://openpipes.org/" target="_blank">
 <img src="https://img.shields.io/badge/Website-73ba25?style=for-the-badge&logo=website&logoColor=black" alt="Website Badge"/></a>
@@ -9,7 +8,7 @@
  
  <a href="https://www.youtube.com/user/cernui" target="_blank">
  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/></a>
- </p>
+ 
 
 # What is Open Pipes?
 
